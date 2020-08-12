@@ -1,6 +1,6 @@
-name: 'ftp-action'
-author: 'Sebastian Popp <ftp-action@sebastianpopp.com>'
-description: 'Automate copying your files via FTP using this GitHub action.'
+name: 'ftp-action-delete-and-upload'
+author: 'JakoB Vesely'
+description: 'Upload Files, Delete directories and files before!'
 inputs:
   host:
     description: 'FTP host'
