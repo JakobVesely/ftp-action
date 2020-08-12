@@ -1,6 +1,8 @@
-# ftp-action
+# FTP Action Delete & Upload
 Based on [sebastianpopp/ftp-action](https://github.com/sebastianpopp/ftp-action).
 Exactly the same Github Action with the addition of **lftp** mirror options **--Remove-source-files** and **--Remove-source-dirs**!
+
+See the lftp manual: http://lftp.yar.ru/lftp-man.html
 
 ## Example usage
 
