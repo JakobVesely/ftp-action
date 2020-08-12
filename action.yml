@@ -1,4 +1,4 @@
-name: 'ftp-action-delete-and-upload'
+name: 'FTP - Delete & Upload'
 author: 'Jakob Vesely'
 description: 'Upload Files, Delete directories and files before!'
 inputs:
