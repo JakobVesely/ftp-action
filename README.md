@@ -1,6 +1,6 @@
 # ftp-action
-
-Automate copying your files via ftp using this GitHub action.
+Based on [sebastianpopp/ftp-action](https://github.com/sebastianpopp/ftp-action).
+Exactly the same Github Action with the addition of **lftp --delete**!
 
 ## Example usage
 
